@@ -83,7 +83,7 @@ let javob3 = prompt('qaysi teg tekstni tagiga chizilgan qilib beradi?');
 let javob4 = prompt('qaysi teg yordamida video qoyiladi?');
 (javob4=="video")? plyus():minus();
 
-let javob5 = prompt('qaysi teg link qaysi css tengmi ?');
-(javob5=="link")? plyus():minus();
+let javob5 = prompt('qaysi teg yordamida jadval tuzish mumkin?');
+(javob5=="table")? plyus():minus();
 
     alert('siz 5 ta testdan ' + firstInput.value + " ta to'g'ri va " + secondInput.value + " ta xato ishladingiz");
